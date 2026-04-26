@@ -76,3 +76,5 @@ I am <b>Jay Bhuva</b>, currently pursuing my <b>B.Tech</b> degree in <b>Computer
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaybhuva31&theme=tokyonight" />
 </p>
+
+![Profile views](https://komarev.com/ghpvc/?username=ravibhuva003&style=flat-square&color=blue)
