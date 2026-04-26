@@ -56,3 +56,9 @@ I am <b>Jay Bhuva</b>, currently pursuing my <b>B.Tech</b> degree in <b>Computer
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+## 👨🏻‍💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/jayy_bhuva/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jaybhuva31)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/colony_sand_44)
