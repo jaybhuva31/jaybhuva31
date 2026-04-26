@@ -24,8 +24,8 @@ I am <b>Jay Bhuva</b>, currently pursuing my <b>B.Tech</b> degree in <b>Computer
 [![Ravi's's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaybhuva31&theme=react-dark)](https://github.com/jaybhuva31)
 
 ## 🌐 Socials:
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ravibhuva577@gmail.com)](mailto:ravibhuva577@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ravibhuva003) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ravibhuva003) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravibhuva003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravibhuva003) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ravibhuva003) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ravibhuva003) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ravibhuva003) 
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaybhuva31@gmail.com)](mailto:jaybhuva31@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jaybhuva31) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jaybhuva31) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaybhuva31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/jaybhuva31](https://www.linkedin.com/in/jay-bhuva-68673236b/)) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jaybhuva31) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jaybhuva31) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jaybhuva31) 
 
 
 # 💻 Tech Stack:
@@ -77,4 +77,4 @@ I am <b>Jay Bhuva</b>, currently pursuing my <b>B.Tech</b> degree in <b>Computer
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaybhuva31&theme=tokyonight" />
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=ravibhuva003&style=flat-square&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=jaybhuva31&style=flat-square&color=blue)
