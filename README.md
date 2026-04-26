@@ -1,4 +1,4 @@
-![logo](https://github.com/ravibhuva003/ravibhuva003/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/jaybhuva31/jaybhuva31/blob/main/Jay%20Bhuva%20Cover%20image.jpeg)
 <h1 align="center">Hi 👋, I'm Jay Bhuva</h1>
 <h3 align="center">A passionate Software developer from India.</h3><br/>
 
