@@ -62,3 +62,17 @@ I am <b>Jay Bhuva</b>, currently pursuing my <b>B.Tech</b> degree in <b>Computer
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/jayy_bhuva/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jaybhuva31)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/colony_sand_44)
+
+## 📈 &nbsp;Some Github Stats ##
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=ravibhuva003&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravibhuva003&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravibhuva003&theme=tokyonight" />
+</p>
