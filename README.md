@@ -16,7 +16,7 @@ I am <b>Jay Bhuva</b>, currently pursuing my <b>B.Tech</b> degree in <b>Computer
 
 - 💬 Ask me about **Latest Technologies**
 
-- 📫 How to reach me **jaybhuva31@gmail.com , 9316355475**
+- 📫 How to reach me **jaybhuva31@gmail.com **
 
 
 - ⚡ Fun fact **I think I am funny guy 😄**
