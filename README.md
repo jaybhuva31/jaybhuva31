@@ -7,7 +7,7 @@ I am <b>Jay Bhuva</b>, currently pursuing my <b>B.Tech</b> degree in <b>Computer
 
 <img align="center" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravibhuva003&label=Profile%20views&color=0e75b6&style=flat" alt="jaybhuva31" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaybhuva31&label=Profile%20views&color=0e75b6&style=flat" alt="jaybhuva31" /> </p>
 
 
 - 🔭 I’m currently working on **FULL Stack Development**
